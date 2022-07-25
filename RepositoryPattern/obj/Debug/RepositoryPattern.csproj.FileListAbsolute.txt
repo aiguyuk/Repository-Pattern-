@@ -1,0 +1,11 @@
+C:\Users\esarp\source\repos\RepositoryPattern\RepositoryPattern\bin\Debug\RepositoryPattern.exe.config
+C:\Users\esarp\source\repos\RepositoryPattern\RepositoryPattern\bin\Debug\RepositoryPattern.exe
+C:\Users\esarp\source\repos\RepositoryPattern\RepositoryPattern\bin\Debug\RepositoryPattern.pdb
+C:\Users\esarp\source\repos\RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.csproj.AssemblyReference.cache
+C:\Users\esarp\source\repos\RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\esarp\source\repos\RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.Properties.Resources.resources
+C:\Users\esarp\source\repos\RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.csproj.GenerateResource.cache
+C:\Users\esarp\source\repos\RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\esarp\source\repos\RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.exe
+C:\Users\esarp\source\repos\RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.pdb
+C:\Users\esarp\source\repos\RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.lblTotalRecords.resources
